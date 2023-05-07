@@ -20,13 +20,12 @@ a {
     margin-left: auto;
     margin-right: auto;
 }
-:root {
+/* :root {
     --font-heading: "Public Sans", sans-serif;
     --font-family: "Poppins", sans-serif;
-}
+} */
 .section-heading {
     position: absolute;
-    font-family: var(--font-family);
     font-weight: 600;
     font-size: 2.5rem;
     line-height: 1.24;
